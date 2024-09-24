@@ -36,7 +36,7 @@
                 bind:value={$convertFiles[$currentImageEditing].scale}
                 type="range"
                 min="1"
-                max="100"
+                max="200"
                 step="1"
             /><br /><br />
             <p style="text-align: center;">
